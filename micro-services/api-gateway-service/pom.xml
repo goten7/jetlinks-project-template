@@ -54,6 +54,7 @@
         <dependency>
             <groupId>org.jetlinks.pro</groupId>
             <artifactId>common-component</artifactId>
+            <version>${jetlinks.pro.version}</version>
         </dependency>
 
         <dependency>
@@ -69,6 +70,7 @@
         <dependency>
             <groupId>org.jetlinks.pro</groupId>
             <artifactId>microservice-autoconfigure</artifactId>
+            <version>${jetlinks.pro.version}</version>
         </dependency>
 
 <!--        <dependency>-->
@@ -106,6 +108,7 @@
         <dependency>
             <groupId>org.jetlinks.pro</groupId>
             <artifactId>api-component</artifactId>
+            <version>${jetlinks.pro.version}</version>
         </dependency>
 
         <dependency>

@@ -157,12 +157,14 @@
         <dependency>
             <groupId>org.jetlinks.pro</groupId>
             <artifactId>common-component</artifactId>
+            <version>${jetlinks.pro.version}</version>
         </dependency>
 
         <!-- 默认使用es存储时序相关数据，如: 日志,统计等 -->
         <dependency>
             <groupId>org.jetlinks.pro</groupId>
             <artifactId>elasticsearch-component</artifactId>
+            <version>${jetlinks.pro.version}</version>
         </dependency>
 
         <!--
@@ -173,6 +175,7 @@
         <dependency>
             <groupId>org.jetlinks.pro</groupId>
             <artifactId>authentication-manager</artifactId>
+            <version>${jetlinks.pro.version}</version>
         </dependency>
 
         <!--
@@ -183,6 +186,7 @@
         <dependency>
             <groupId>org.jetlinks.pro</groupId>
             <artifactId>rule-engine-manager</artifactId>
+            <version>${jetlinks.pro.version}</version>
         </dependency>
 
         <!--
@@ -193,11 +197,13 @@
         <dependency>
             <groupId>org.jetlinks.pro</groupId>
             <artifactId>notify-manager</artifactId>
+            <version>${jetlinks.pro.version}</version>
         </dependency>
 
         <dependency>
             <groupId>org.jetlinks.pro</groupId>
             <artifactId>logging-component</artifactId>
+            <version>${jetlinks.pro.version}</version>
         </dependency>
 
         <dependency>
