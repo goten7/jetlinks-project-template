@@ -58,40 +58,6 @@
             </dependencies>
         </profile>
 
-        <profile>
-            <id>example</id>
-            <dependencies>
-                <dependency>
-                    <groupId>org.jetlinks.project</groupId>
-                    <artifactId>crud-examples</artifactId>
-                    <version>${project.version}</version>
-                </dependency>
-
-                <dependency>
-                    <groupId>org.jetlinks.project</groupId>
-                    <artifactId>rule-engine-example</artifactId>
-                    <version>${project.version}</version>
-                </dependency>
-
-                <dependency>
-                    <groupId>org.jetlinks.project</groupId>
-                    <artifactId>tracing-example</artifactId>
-                    <version>${project.version}</version>
-                </dependency>
-
-                <dependency>
-                    <groupId>org.jetlinks.project</groupId>
-                    <artifactId>websocket-example</artifactId>
-                    <version>${project.version}</version>
-                </dependency>
-
-                <dependency>
-                    <groupId>org.jetlinks.project</groupId>
-                    <artifactId>expand-property-example</artifactId>
-                    <version>${project.version}</version>
-                </dependency>
-            </dependencies>
-        </profile>
     </profiles>
 
     <build>
