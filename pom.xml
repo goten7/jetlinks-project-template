@@ -141,20 +141,6 @@
             </modules>
         </profile>
 
-        <profile>
-            <id>example</id>
-            <modules>
-                <module>modules/examples/crud-examples</module>
-                <module>modules/examples/rule-engine-example</module>
-                <module>modules/examples/tracing-example</module>
-                <module>modules/examples/example-service</module>
-                <module>modules/examples/rpc-example</module>
-                <module>modules/examples/websocket-example</module>
-                <module>modules/examples/expand-property-example</module>
-                <module>modules/examples/thirdparty-iam-example</module>
-            </modules>
-        </profile>
-
         <!-- 微服务项目运行时请设置 -P microservice -->
         <profile>
             <id>microservice</id>
