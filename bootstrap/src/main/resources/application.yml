@@ -5,7 +5,7 @@ server:
     include-message: always
 spring:
   profiles:
-    active: dev
+    active: dev,local
   application:
     name: jetlinks-project
   jackson:
