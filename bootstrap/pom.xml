@@ -168,7 +168,7 @@
 
         <dependency>
             <groupId>org.jetlinks.pro</groupId>
-            <artifactId>logging-component</artifactId>
+            <artifactId>logging-manager</artifactId>
             <version>${jetlinks.pro.version}</version>
         </dependency>
 
